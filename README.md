@@ -1,3 +1,4 @@
 # Trollo
+A Trello like application implemented with Vue.js framework, Vuex management library, and SCSS design on client-side
 https://trollo-ca.herokuapp.com/
-![image](https://user-images.githubusercontent.com/83285714/160105378-796f0a42-6571-420c-b5c9-af578c525e74.png)
+![image](https://user-images.githubusercontent.com/83285714/160106295-142e31f2-509d-4c09-ac16-37310320133c.png)
